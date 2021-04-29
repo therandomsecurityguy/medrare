@@ -1,0 +1,30 @@
+baseurl = "/"
+title = "Medium Rare Stake"
+theme = "hugo-theme-nix"
+languageCode = "en-us"
+
+
+[menu]
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+  [[menu.header]]
+    name = "staking instructions"
+    weight = 2
+    url = "staking"
+  [[menu.header]]
+    name = "faq"
+    weight = 3
+    url = "faq"
+
+[params]
+  GithubID = "therandomsecurityguy"
+  TwitterID = "theredinthesky"
+  Name = "Medium Rare Stake"
+  HeaderUsername = "ada"
+  HeaderHostname = "mediumrarestake"
+  Email = "therandomsecurityguy@gmail.com"
+  About = "Staking done well. Never well done."
+  ProfilePicture = "steak.png"
+  Favicon = "/favicon.ico"
