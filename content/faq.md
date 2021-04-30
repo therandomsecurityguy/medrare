@@ -6,7 +6,7 @@ menu: "main"
 
 ## What is Cardano?
 
-[**Cardano**](https://cardano.org/) (ADA) is a public blockchain that is striving to become a 3rd generation cryptocurrency. It was built from the ground up to solve the inefficiencies of Generation 1 (Bitcoin) and Generation 2 (Ethereum) cryptocurrencies. Inefficiencies such as scalability, interoperability, sustainability are solved by Proof of Stake blockchain protocol.
+[**Cardano**](https://cardano.org/) (ADA) is a public blockchain that is striving to become a 3rd generation cryptocurrency. It was built from the ground up to solve the inefficiencies of Generation 1 ([Bitcoin](https://bitcoin.org/)) and Generation 2 ([Ethereum](https://ethereum.org/en/)) cryptocurrencies. Inefficiencies such as scalability, interoperability, sustainability are solved by Cardano's proof of stake blockchain protocol, [Ouroboros](https://cardano.org/ouroboros/):
 
 {{< youtube Do8rHvr65ZA >}}
 
