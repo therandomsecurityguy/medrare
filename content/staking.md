@@ -12,7 +12,7 @@ Popular exchanges:
 * [Coinbase](https://coinbase.com/)
 
 
-### 2. Create a Cardano Wallet
+### 2. Choose a Cardano Wallet
 
 Two of the most popular Cardano wallets are [Daedalus](https://daedaluswallet.io) and [Yoroi](https://yoroi-wallet.com/). While Yoroi is lightweight and requires less storage, it needs to connect to a full node, meaning you need to trust a third party. For the example below, we'll use Daedalus Wallet.
 
@@ -20,7 +20,7 @@ After you download and install Daedalus, start up the Daedalus application.
 
 First start up should take some time because you are downloading the entire Cardano blockchain.
 
-### 3. Create Daedalus Wallet.
+### 3. Create Daedalus Wallet
 
 Write down the keywords and store them in a safe location. Keywords are required for wallet restoration.
 
@@ -36,7 +36,7 @@ Send a test amount of ADA (10 ADA) just to make sure you set it up right.
 
 When it arrives in your Daedalus Wallet, repeat this step to send the rest.
 
-### 5. Search and delegate
+### 5. Search and Delegate
 
 When you have moved all your ADA to Daedalus, click the network logo that appears on the side bar to the left.
 
