@@ -12,19 +12,19 @@ menu: "main"
 
 ## What is staking?
 
-Ada held on the Cardano network represents a stake in the network, with the size of the stake proportional to the amount of ada held. The ability to delegate or pledge a stake is fundamental to how Cardano works.
+Ada held on the Cardano network represents a stake in the network with the size of the stake proportional to the amount of ada held. The ability to delegate or pledge a stake is fundamental to how Cardano works.
 
-There are two ways an ada holder can earn rewards: by delegating their stake to a stake pool run by someone else, or running their own stake pool. The amount of stake delegated to a given stake pool is the primary way the Ouroboros protocol chooses who should add the next block to the blockchain, and receive a monetary reward for doing so.
+There are two ways an ada holder can earn rewards: by delegating their stake to a stake pool run by someone else, or running their own stake pool. The amount of stake delegated to a given stake pool is the primary way the Ouroboros protocol chooses who should add the next block to the blockchain and receive a monetary reward for doing so.
 
 ## Why delegate your ada?
 
 Delegation is the process by which ada holders delegate the stake associated with their ada to a stake pool. It allows ada holders that do not have the skills or desire to run a node to participate in the network and be rewarded in proportion to the amount of stake delegated.
 
-By delegating you also keep more rewards. Exchanges, like Coinbase, can keep up to 25% of the staking rewards.
+By delegating, you also keep more rewards. Exchanges, like Coinbase, can keep up to 25% of the staking rewards.
 
 ## Do you keep the ada?
 
-**NO!!!** We do not hold your ada. Your ada remains in your wallet and you remain in full control.
+**NO!!!** We do not hold your ada. Your ada remains in your wallet, and you remain in full control.
 
 ## Why delegate with smaller pools?
 
