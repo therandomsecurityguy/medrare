@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Medium Rare Stake"
-theme = "hugo-theme-nix"
+#theme = "hugo-theme-nix"
 languageCode = "en-us"
 
 [module]
