@@ -12,6 +12,6 @@ I'm just a blockchain enthusiast and crypto nerd who enjoys being part of the gr
 
 ### Cardano Stake Pool
 
-*Pool ID* : pool1ft4z335t0eclqwlxdktam5wphf47swfpzgxe4fslnjz5y70hq2p
+*Pool ID* : 4aea28c68b7e71f03be66d97ddd1c1ba6be83921120d9aa61f9c8542
 
 [Medium Rare Stake {MDRS}](https://adapools.org/pool/4aea28c68b7e71f03be66d97ddd1c1ba6be83921120d9aa61f9c8542)
