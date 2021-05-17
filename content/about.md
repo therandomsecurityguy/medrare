@@ -6,7 +6,7 @@ menu: "main"
 
 ## Who am I?
 
-I'm just a blockchain enthusiast and crypto nerd who enjoys being part of the greater community. I hold multiple [patents](https://patents.google.com/?inventor=Derek+Chamorro) on improving blockchain security and cryptography.
+I'm just a blockchain enthusiast and crypto nerd who enjoys being part of the greater community. I hold multiple [patents](https://scholar.google.com/citations?user=s08AV6UAAAAJ&hl=en) on improving blockchain security and cryptography.
 
 ---
 
